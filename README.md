@@ -4,6 +4,6 @@
  
 - 💼Especialidades: JavaScript.
  
-- 📚Estudando: JavaScript.
+- 📚Estudando: JavaScript,Python.
 
 - 🔨Ferramentas: VS-Code, GitHub.
